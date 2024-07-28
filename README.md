@@ -2,18 +2,6 @@
 
 This guide will walk you through the process of using our CVAT server to label images. Follow the steps below to get started.
 
-## Table of Contents
-1. [Logging In](#logging-in)
-2. [Selecting an Organization](#selecting-an-organization)
-3. [Accessing Jobs](#accessing-jobs)
-4. [Labeling Tasks](#labeling-tasks)
-5. [Labeling](#labeling)
-6. [Interpolation](#interpolation)
-7. [Submitting and Saving Labels](#submitting-and-saving-labels)
-8. [Useful Keyboard Shortcuts](#useful-keyboard-shortcuts)
-9. [Examples](#examples)
-10. [Notes](#notes)
-
 ## 1. Logging In
 1. Open the CVAT server URL in your web browser.
 2. Enter your username and password.
