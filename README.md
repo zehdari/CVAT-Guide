@@ -100,7 +100,3 @@ This guide will walk you through the process of using our CVAT server to label i
 - **Coral** - The orange table object
 - **Nautilus** - The yellow table object
 
-
-## 10. Notes
-- Make sure to follow the labeling guidelines provided by the project.
-- If you encounter any issues, reach out to the team for support.
